@@ -1,0 +1,9 @@
+body {
+    margin-top: 75px;
+}
+
+@media (min-width: 786px) { /* tablets and up */
+    .group2 {
+        text-align:right;
+    }
+}
